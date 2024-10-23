@@ -44,8 +44,9 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
 </p>
-   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofjau&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
+<div align="center" style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofjau&layout=compact&theme=tokyonight" alt="Top Langs" style="margin-right: 20px;">
+  <img src="https://i.gifer.com/7SvE.gif" width="230px" alt="Animated GIF">
+</div>
 
 
